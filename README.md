@@ -13,5 +13,5 @@ The following scripts are run on a Raspberry Pi to pull and save the data from t
 
 Acknowledgments
 Thank you to https://www.rototron.info for providing a very useful tutorial on which the dht_publish.py script is based.
+There are other acknowledgments which I will add here as I find/remember them.
 
-#update test
