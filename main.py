@@ -1,3 +1,6 @@
+#This script is run on boot of the ESP32, after boot.py.
+#boot.py is an integral part of MicroPython and I have left it unedited.
+
 import ConnectWiFi #Script to connect to WiFi. SSID and password must be set.
 import time
 import machine
